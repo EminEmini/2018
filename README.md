@@ -73,6 +73,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Egor Zhdan](https://github.com/egorzhdan) | [GitHub](https://github.com/egorzhdan/wwdc18) | | Cocoa, SpriteKit | Accepted |
 |[Eliott Hauteclair](https://github.com/Eliottiosdevs/)|| | AVFoundation, UIKit | Rejected |
 |[Emannuel Carvalho](https://github.com/emannuelOC/)|[GitHub](https://github.com/emannuelOC/WWDC2018)|[YouTube](https://www.youtube.com/watch?v=o0N6a5QapB0&feature=youtu.be)| Vision, CALayer, Core Animation, AVCapture, UIKit | Submitted |
+|[Emin Emini](https://www.linkedin.com/in/emin-emini/)| | [YouTube](https://www.youtube.com/watch?v=hq2Vo8n8tgk&t=28s&frags=pl%2Cwn) | UIKit | Rejected |
 |[Erick Borges](https://github.com/ericklborges)|[GitHub](https://github.com/ericklborges/Animandalas)|[YouTube](https://www.youtube.com/watch?v=ljRl9g29zg0&feature=youtu.be)|Core Graphics| Accepted |
 |[Erik Martin](https://github.com/techgeek1129)|[GitHub](https://github.com/techgeek1129/WWDC-2018-Scholarship-Submission)| | SpriteKit, Cocoa | Accepted | 
 |[Erik Maximilian Martens](https://www.linkedin.com/in/erik-maximilian-martens-212280a1/)| [GitHub](https://github.com/erikmartens/WWDC-2018-Scholarship-Submission) |  | UIKit, SpriteKit | Rejected|
